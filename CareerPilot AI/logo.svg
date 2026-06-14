@@ -1,0 +1,21 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Compass icon -->
+  <circle cx="20" cy="20" r="16" fill="none" stroke="#0078d4" stroke-width="1.5"/>
+  <circle cx="20" cy="20" r="2.5" fill="#0078d4"/>
+  <!-- North needle -->
+  <polygon points="20,6 17.5,20 22.5,20" fill="#0078d4" opacity="0.9"/>
+  <!-- South needle -->
+  <polygon points="20,34 17.5,20 22.5,20" fill="#4a5568" opacity="0.6"/>
+  <!-- Cardinal ticks -->
+  <line x1="20" y1="4"  x2="20" y2="7"  stroke="#0078d4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="20" y1="33" x2="20" y2="36" stroke="#0078d4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="4"  y1="20" x2="7"  y2="20" stroke="#0078d4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="33" y1="20" x2="36" y2="20" stroke="#0078d4" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Wordmark -->
+  <text x="44" y="15" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="13" font-weight="700" fill="#e8edf5" letter-spacing="0.01em">CareerPilot</text>
+  <text x="44" y="30" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#0078d4" letter-spacing="0.06em">AI</text>
+  <!-- Dot separator -->
+  <circle cx="58" cy="27" r="1.5" fill="#4a5568"/>
+  <text x="63" y="30" font-family="'Inter', sans-serif" font-size="9" font-weight="400" fill="#4a5568" letter-spacing="0.04em">AGENT SWARMS</text>
+</svg>
