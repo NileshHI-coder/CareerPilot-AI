@@ -1,12 +1,7 @@
 import streamlit as st
 
 def show():
-    st.set_page_config(
-        page_title="CareerPilot AI - Home",
-        page_icon="🚀",
-        layout="wide"
-    )
-    
+  
     # Hero Section
     st.markdown("""
     <div style="text-align: center; padding: 50px 0;">
